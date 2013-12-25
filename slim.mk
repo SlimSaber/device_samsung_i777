@@ -30,9 +30,6 @@ $(call inherit-product, vendor/slim/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/samsung/i777/full_i777.mk)
 
-# Inherit device settings
-$(call inherit-product, vendor/slim/config/common_sgs.mk)
-
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := i777
 PRODUCT_NAME := slim_i777
