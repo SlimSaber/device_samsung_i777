@@ -1,14 +1,14 @@
 
 [
     {
-        "repository": "SlimRoms/device_samsung_galaxys2-common",
+        "repository": "SlimSaber/device_samsung_galaxys2-common",
         "target_path": "device/samsung/galaxys2-common",
         "branch": "kk4.4"
     },
     {
-        "repository": "SlimRoms/kernel_samsung_smdk4412",
+        "repository": "SlimSaber/kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-        "branch": "kk4.4-old"
+        "branch": "kk4.4"
     },
     {
         "repository": "SlimRoms/hardware_samsung",
@@ -16,7 +16,7 @@
         "branch": "kk4.4"
     },
     {
-        "repository": "SlimRoms/proprietary_vendor_samsung",
+        "repository": "SlimSaber/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
         "branch": "kk4.4"
     }
